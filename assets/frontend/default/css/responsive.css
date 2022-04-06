@@ -9,7 +9,7 @@
 
 
 /*
-    menu resonsive for 768px+
+    menu responsive for 768px+
 */
 @media (min-width:768px){
     .navbar-expand-lg {
@@ -149,6 +149,7 @@
         display: none;
     }
     .search-box {
+
         margin-right: 20px;
     }
 
@@ -592,3 +593,5 @@
 
 
 }
+
+/* the end */

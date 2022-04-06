@@ -9,7 +9,7 @@ $(document).ready(function() {
          'delimiter': ',',   // Or a string with a single delimiter. Ex: ';'
          'removeWithBackspace' : true,
          'minChars' : 0,
-         'maxChars' : 0, // if not provided there is no limit
+         'maxChars' : 0, 
          'placeholderColor' : '#666666'
        });
 });
