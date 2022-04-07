@@ -4,3 +4,4 @@
 	<a href="<?php echo get_settings('footer_link'); ?>"
     	target="_blank"><?php echo get_settings('footer_text'); ?></a>
 </footer>
+<!-- this is footer part -->
