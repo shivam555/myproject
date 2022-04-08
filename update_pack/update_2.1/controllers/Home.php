@@ -21,7 +21,7 @@ class Home extends CI_Controller {
     public function index() {
         $this->home();
     }
-
+    /*home function */
     public function home() {
         $page_data['page_name'] = "home";
         $page_data['page_title'] = get_phrase('home');
