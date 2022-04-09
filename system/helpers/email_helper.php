@@ -35,6 +35,7 @@
  * @since	Version 1.0.0
  * @filesource
  */
+/* this is a email helper */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
